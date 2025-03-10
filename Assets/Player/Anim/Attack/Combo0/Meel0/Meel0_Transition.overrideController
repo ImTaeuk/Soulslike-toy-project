@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Meel0_Transition
+  m_Controller: {fileID: 9100000, guid: 60acf2115f262084bb217ad5120e0b7a, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 1da2fd6ef302aad4fa80106693c8fb45, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2f3f6c6ffc7193146a67ad3e950ee29b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: dcc6582607c69a3478676142d49439c6, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: dcc6582607c69a3478676142d49439c6, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 5a19a358979e5db468660aba484ad954, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5a19a358979e5db468660aba484ad954, type: 2}

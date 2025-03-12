@@ -1653,7 +1653,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animOverride: {fileID: 22100000, guid: c578ca713afe14047bdc16fbc9b171d6, type: 2}
   animOverrideTransition: {fileID: 0}
-  predelayTime: 0.7
+  predelayTime: 0.35
   maincontextTime: 0.5
   afterdelayTime: 1.2
   nextSkill: {fileID: 0}
@@ -2499,7 +2499,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!65 &1080163438
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3236,7 +3236,7 @@ MonoBehaviour:
   animOverrideTransition: {fileID: 22100000, guid: a02e512691a67934c9c11719e2289659, type: 2}
   predelayTime: 0.2
   maincontextTime: 0.75
-  afterdelayTime: 1
+  afterdelayTime: 0.4
   nextSkill: {fileID: 1760835158}
   countable: 0
   impactTime: 0
@@ -3576,7 +3576,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animOverride: {fileID: 22100000, guid: b023ba16017bb4943a08958b0be4a7c5, type: 2}
   animOverrideTransition: {fileID: 0}
-  predelayTime: 0.6
+  predelayTime: 0.4
   maincontextTime: 0.8
   afterdelayTime: 0.4
   nextSkill: {fileID: 0}
